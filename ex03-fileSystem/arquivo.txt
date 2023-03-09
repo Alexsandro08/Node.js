@@ -1,0 +1,1 @@
+adicionando textos com writeFile
